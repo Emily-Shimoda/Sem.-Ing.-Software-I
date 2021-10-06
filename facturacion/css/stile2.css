@@ -1,0 +1,11 @@
+.sinitem option:first-child{
+    display: none;
+}
+ .dir{
+    text-align: center;
+    background: #239baa;
+    color: #FFF;
+    padding: 5px 5px;
+    border-radius: 13px;
+    margin: 5px;
+}
